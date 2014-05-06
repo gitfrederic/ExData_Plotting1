@@ -8,3 +8,4 @@ png(filename="plot1.png", width=480, height=480)
 hist(df_hpc$Global_active_power, col="red", main="Global Active Poewr", xlab="Global Active Power (kilowatts)")
 dev.off()
 
+
